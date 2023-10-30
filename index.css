@@ -1,0 +1,65 @@
+.img1 {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    margin: 100px;
+}
+.img2 {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+.img4 {
+    position: relative;
+    top: 200px;
+}
+
+.p1 {
+    display: inline;
+    font-size: medium;
+ padding-left: 10px;
+ padding-right: 10px;
+margin: 0;
+}
+  
+.div1 {
+    background-color: brown;
+    width: 600px;
+    height: 30px;
+    padding: 10px;
+}
+.div2 {
+  position: relative;
+  left: 142px;
+
+  top: -15px;
+
+}
+
+.container {
+ background-color: grey;
+ width: 620px;
+}
+
+.p2 {
+    width: 200px;
+    background-color: white;
+    height: 23px;
+    padding: 4px;
+    margin: 0;
+}
+#p11 {
+    background-color: whitesmoke;
+    padding-bottom: 30px;
+}
+#menu2 {
+    background-color: grays;
+}
+#Home {
+    background-color: whitesmoke;
+    padding-bottom: 15px;
+}
